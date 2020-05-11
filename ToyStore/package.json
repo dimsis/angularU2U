@@ -1,0 +1,22 @@
+{
+  "name": "toystore",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "tsc": "tsc"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.2.0"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.2.18",
+    "html-loader": "^0.5.5",
+    "html-webpack-plugin": "^3.2.0",
+    "ts-loader": "^6.0.2",
+    "typescript": "2.7.1",
+    "webpack": "^4.33.0",
+    "webpack-cli": "^3.3.4",
+    "webpack-dev-server": "^3.8.1"
+  }
+}
